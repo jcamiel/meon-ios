@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>level10</key>
+	<dict>
+		<key>todo</key>
+		<string>Atteindre le niveau 10 en Classic</string>
+		<key>done</key>
+		<string>A atteint le niveau 10 en Classic</string>
+	</dict>
+	<key>level20</key>
+	<dict>
+		<key>todo</key>
+		<string>Atteindre le niveau 20 en Classic</string>
+		<key>done</key>
+		<string>A atteint le niveau 20 en Classic</string>
+	</dict>
+	<key>level30</key>
+	<dict>
+		<key>todo</key>
+		<string>Atteindre le niveau 30 en Classic</string>
+		<key>done</key>
+		<string>A atteint le niveau 30 en Classic</string>
+	</dict>
+	<key>level40</key>
+	<dict>
+		<key>todo</key>
+		<string>Atteindre le niveau 40 en Classic</string>
+		<key>done</key>
+		<string>A atteint le niveau 40 en Classic</string>
+	</dict>
+	<key>level50</key>
+	<dict>
+		<key>todo</key>
+		<string>Atteindre le niveau 50 en Classic</string>
+		<key>done</key>
+		<string>A atteint le niveau 50 en Classic</string>
+	</dict>
+	<key>level60</key>
+	<dict>
+		<key>todo</key>
+		<string>Atteindre le niveau 60 en Classic</string>
+		<key>done</key>
+		<string>A atteint le niveau 60 en Classic</string>
+	</dict>
+	<key>level70</key>
+	<dict>
+		<key>todo</key>
+		<string>Atteindre le niveau 70 en Classic</string>
+		<key>done</key>
+		<string>A atteint le niveau 70 en Classic</string>
+	</dict>
+	<key>level80</key>
+	<dict>
+		<key>todo</key>
+		<string>Atteindre le niveau 80 en Classic</string>
+		<key>done</key>
+		<string>A atteint le niveau 80 en Classic</string>
+	</dict>
+	<key>level90</key>
+	<dict>
+		<key>todo</key>
+		<string>Atteindre le niveau 90 en Classic</string>
+		<key>done</key>
+		<string>A atteint le niveau 90 en Classic</string>
+	</dict>
+	<key>level100</key>
+	<dict>
+		<key>todo</key>
+		<string>Atteindre le niveau 100 en Classic</string>
+		<key>done</key>
+		<string>A atteint le niveau 100 en Classic</string>
+	</dict>
+	<key>level110</key>
+	<dict>
+		<key>todo</key>
+		<string>Atteindre le niveau 110 en Classic</string>
+		<key>done</key>
+		<string>A atteint le niveau 110 en Classic</string>
+	</dict>
+	<key>level120</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer le mode Classic</string>
+		<key>done</key>
+		<string>A terminé le mode Classic </string>
+	</dict>
+	<key>flash</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer le mode Time Attack Flash</string>
+		<key>done</key>
+		<string>A terminé le mode Time Attack Flash</string>
+	</dict>
+	<key>hint30</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer 30 niveaux de suite sans indice</string>
+		<key>done</key>
+		<string>A terminé 30 niveaux de suite sans indice</string>
+	</dict>
+	<key>hint50</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer 50 niveaux de suite sans indice</string>
+		<key>done</key>
+		<string>A terminé 50 niveaux de suite sans indice</string>
+	</dict>
+	<key>level31</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer le mode Classic (version Lite)</string>
+		<key>done</key>
+		<string>A terminé le mode Classic (version Lite)</string>
+	</dict>
+	<key>marathon</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer le mode Time Attack Marathon</string>
+		<key>done</key>
+		<string>A terminé le mode Time Attack Marathon</string>
+	</dict>
+	<key>medium</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer le mode Time Attack Medium</string>
+		<key>done</key>
+		<string>A terminé le mode Time Attack Medium</string>
+	</dict>
+	<key>timeattack.flash1000</key>
+	<dict>
+		<key>todo</key>
+		<string>Obtenir moins de 1000 en Flash</string>
+		<key>done</key>
+		<string>A obtenu moins 1000 en Flash</string>
+	</dict>
+	<key>timeattack.flash3000</key>
+	<dict>
+		<key>todo</key>
+		<string>Obtenir moins de 3000 en Flash</string>
+		<key>done</key>
+		<string>A obtenu moins de 3000 en Flash</string>
+	</dict>
+	<key>timeattack.flash5000</key>
+	<dict>
+		<key>todo</key>
+		<string>Obtenir moins de 5000 en Flash</string>
+		<key>done</key>
+		<string>A obtenu moins de 5000 en Flash</string>
+	</dict>
+	<key>timeattack.medium5000</key>
+	<dict>
+		<key>todo</key>
+		<string>Obtenir moins de 5000 en Medium</string>
+		<key>done</key>
+		<string>A obtenu moins de 5000 en Medium</string>
+	</dict>
+	<key>tool6</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer le niveau 6 avec moins d'outils</string>
+		<key>done</key>
+		<string>A terminé le niveau 6 avec moins d'outils</string>
+	</dict>
+	<key>tool42</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer le niveau 42 avec moins d'outils</string>
+		<key>done</key>
+		<string>A terminé le niveau 42 avec moins d'outils</string>
+	</dict>
+	<key>tool50</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer le niveau 50 avec moins d'outils</string>
+		<key>done</key>
+		<string>A terminé le niveau 50 avec moins d'outils</string>
+	</dict>
+	<key>tool51</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer le niveau 51 avec moins d'outils</string>
+		<key>done</key>
+		<string>A terminé le niveau 51 avec moins d'outils</string>
+	</dict>
+	<key>tool55</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer le niveau 55 avec moins d'outils</string>
+		<key>done</key>
+		<string>A terminé le niveau 55 avec moins d'outils</string>
+	</dict>
+	<key>tool84</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer le niveau 84 avec moins d'outils</string>
+		<key>done</key>
+		<string>A terminé le niveau 84 avec moins d'outils</string>
+	</dict>
+	<key>tool118</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer le niveau 118 avec moins d'outils</string>
+		<key>done</key>
+		<string>A terminé le niveau 118 avec moins d'outils</string>
+	</dict>
+	<key>tutorial</key>
+	<dict>
+		<key>todo</key>
+		<string>Terminer le tutoriel</string>
+		<key>done</key>
+		<string>A terminé le tutoriel</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>version</key>
+	<string>1</string>
+	<key>items</key>
+	<array>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Hi!
+Welcome in the World of Meon.
+I'm going to teach you how to play.
+Now, tap anywhere on the screen.</string>
+				<key>highlights</key>
+				<array>
+					<string>Meon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>The goal of this game is to finish all the 120 levels.
+To end a level, you have to free each Meon by lighting it with the right color beam.</string>
+				<key>highlights</key>
+				<array>
+					<string>120 levels</string>
+					<string>Meon</string>
+				</array>
+			</dict>
+ 			<dict>
+				<key>text</key>
+				<string>Let's go to the first level.
+You can move green Meons. Tap on the green Meon and drag it toward bottom.</string>
+				<key>highlights</key>
+				<array>
+					<string>green Meons</string>
+					<string>green Meon</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>To free Meons, you can also use tools. On this level, use splitter tool to split your beam and free the two Meons
+Try to send your beam on the splitter</string>
+				<key>highlights</key>
+				<array>
+					<string>tools</string>
+					<string>splitter</string>
+					<string>splitter</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Good!
+It's easy, isn't it? To let you admire your good work, you can do a pause between each level: just go on the Options, in the main menu.
+Now, try to use the mirror to change your beam direction...</string>
+				<key>highlights</key>
+				<array>
+					<string>pause</string>
+					<string>Options</string>
+					<string>mirror</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>To free a colored Meon, you have to send a beam of the same color on it.
+You can use a Prism to create colored beams.
+Try to send a white beam on the white side of this prism.</string>
+				<key>highlights</key>
+				<array>
+					<string>same color</string>
+					<string>Prism</string>
+				</array>
+			</dict>
+		</array>
+        
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Colored bricks can also be used to change your beam color.
+Can you reach the red Meon with a red beam?</string>
+				<key>highlights</key>
+				<array>
+					<string>Colored bricks</string>
+					<string>red Meon</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>To solve a level, you can use two hints. When you tap on “?”, the exact position of one tool is revealed.
+Try to tap on “?” now...</string>
+				<key>highlights</key>
+				<array>
+					<string>hints</string>
+					<string>“?”</string>
+					<string>exact position</string>
+					<string>“?”</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Ok, you're a master!
+If you're really blocked on a level, don't forget to use the solver.
+Now, try to free all the Meons. We are waiting for your help!
+Good luck!!!</string>
+				<key>highlights</key>
+				<array>
+					<string>solver</string>
+					<string>Good luck!!!</string>
+				</array>
+			</dict>
+		</array>
+	</array>
+</dict>
+</plist>

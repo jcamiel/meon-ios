@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>level10</key>
+	<dict>
+		<key>todo</key>
+		<string>Reach level 10 in Classic mode</string>
+		<key>done</key>
+		<string>Reached level 10 in Classic mode</string>
+	</dict>
+	<key>level20</key>
+	<dict>
+		<key>todo</key>
+		<string>Reach level 20 in Classic mode</string>
+		<key>done</key>
+		<string>Reached level 20 in Classic mode</string>
+	</dict>
+	<key>level30</key>
+	<dict>
+		<key>todo</key>
+		<string>Reach level 30 in Classic mode</string>
+		<key>done</key>
+		<string>Reached level 30 in Classic mode</string>
+	</dict>
+	<key>level40</key>
+	<dict>
+		<key>todo</key>
+		<string>Reach level 40 in Classic mode</string>
+		<key>done</key>
+		<string>Reached level 40 in Classic mode</string>
+	</dict>
+	<key>level50</key>
+	<dict>
+		<key>todo</key>
+		<string>Reach level 50 in Classic mode</string>
+		<key>done</key>
+		<string>Reached level 50 in Classic mode</string>
+	</dict>
+	<key>level60</key>
+	<dict>
+		<key>todo</key>
+		<string>Reach level 60 in Classic mode</string>
+		<key>done</key>
+		<string>Reached level 60 in Classic mode</string>
+	</dict>
+	<key>level70</key>
+	<dict>
+		<key>todo</key>
+		<string>Reach level 70 in Classic mode</string>
+		<key>done</key>
+		<string>Reached level 70 in Classic mode</string>
+	</dict>
+	<key>level80</key>
+	<dict>
+		<key>todo</key>
+		<string>Reach level 80 in Classic mode</string>
+		<key>done</key>
+		<string>Reached level 80 in Classic mode</string>
+	</dict>
+	<key>level90</key>
+	<dict>
+		<key>todo</key>
+		<string>Reach level 90 in Classic mode</string>
+		<key>done</key>
+		<string>Reached level 90 in Classic mode</string>
+	</dict>
+	<key>level100</key>
+	<dict>
+		<key>todo</key>
+		<string>Reach level 100 in Classic mode</string>
+		<key>done</key>
+		<string>Reached level 100 in Classic mode</string>
+	</dict>
+	<key>level110</key>
+	<dict>
+		<key>todo</key>
+		<string>Reach level 110 in Classic mode</string>
+		<key>done</key>
+		<string>Reached level 110 in Classic mode</string>
+	</dict>
+	<key>level120</key>
+	<dict>
+		<key>todo</key>
+		<string>Finish Classic mode</string>
+		<key>done</key>
+		<string>Finished Classic mode</string>
+	</dict>
+	<key>flash</key>
+	<dict>
+		<key>todo</key>
+		<string>Complete Flash in Time Attack Mode</string>
+		<key>done</key>
+		<string>Completed Flash in Time Attack Mode</string>
+	</dict>
+	<key>hint30</key>
+	<dict>
+		<key>todo</key>
+		<string>Complete in a row 30 levels without hint</string>
+		<key>done</key>
+		<string>Completed in a row 30 levels without hint</string>
+	</dict>
+	<key>hint50</key>
+	<dict>
+		<key>todo</key>
+		<string>Complete in a row 50 levels without hint</string>
+		<key>done</key>
+		<string>Completed in a row 50 levels without hint</string>
+	</dict>
+	<key>level31</key>
+	<dict>
+		<key>todo</key>
+		<string>Finish the Classic mode (Lite version)</string>
+		<key>done</key>
+		<string>Finished the Classic mode (Lite version)</string>
+	</dict>
+	<key>marathon</key>
+	<dict>
+		<key>todo</key>
+		<string>Complete Marathon in Time Attack mode</string>
+		<key>done</key>
+		<string>Completed Marathon in Time Attack mode</string>
+	</dict>
+	<key>medium</key>
+	<dict>
+		<key>todo</key>
+		<string>Complete Medium in Time Attack mode</string>
+		<key>done</key>
+		<string>Completed Medium in Time Attack mode</string>
+	</dict>
+	<key>timeattack.flash1000</key>
+	<dict>
+		<key>todo</key>
+		<string>Score less than 1000 in Flash</string>
+		<key>done</key>
+		<string>Scored less than 1000 in Flash</string>
+	</dict>
+	<key>timeattack.flash3000</key>
+	<dict>
+		<key>todo</key>
+		<string>Score less than 3000 in Flash</string>
+		<key>done</key>
+		<string>Scored less than 3000 in Flash</string>
+	</dict>
+	<key>timeattack.flash5000</key>
+	<dict>
+		<key>todo</key>
+		<string>Score less than 5000 in Flash</string>
+		<key>done</key>
+		<string>Scored less than 5000 in Flash</string>
+	</dict>
+	<key>timeattack.medium5000</key>
+	<dict>
+		<key>todo</key>
+		<string>Score less than 5000 in Medium</string>
+		<key>done</key>
+		<string>Scored less than 5000 in Medium</string>
+	</dict>
+	<key>tool6</key>
+	<dict>
+		<key>todo</key>
+		<string>Save a tool in level 6</string>
+		<key>done</key>
+		<string>Saved a tool in level 6</string>
+	</dict>
+	<key>tool42</key>
+	<dict>
+		<key>todo</key>
+		<string>Save a tool in level 42</string>
+		<key>done</key>
+		<string>Saved a tool in level 42</string>
+	</dict>
+	<key>tool50</key>
+	<dict>
+		<key>todo</key>
+		<string>Save a tool in level 50</string>
+		<key>done</key>
+		<string>Saved a tool in level 50</string>
+	</dict>
+	<key>tool51</key>
+	<dict>
+		<key>todo</key>
+		<string>Save a tool in level 51</string>
+		<key>done</key>
+		<string>Saved a tool in level 51</string>
+	</dict>
+	<key>tool55</key>
+	<dict>
+		<key>todo</key>
+		<string>Save a tool in level 55</string>
+		<key>done</key>
+		<string>Saved a tool in level 55</string>
+	</dict>
+	<key>tool84</key>
+	<dict>
+		<key>todo</key>
+		<string>Save a tool in level 84</string>
+		<key>done</key>
+		<string>Saved a tool in level 84</string>
+	</dict>
+	<key>tool118</key>
+	<dict>
+		<key>todo</key>
+		<string>Save a tool in level 118</string>
+		<key>done</key>
+		<string>Saved a tool in level 118</string>
+	</dict>
+	<key>tutorial</key>
+	<dict>
+		<key>todo</key>
+		<string>Complete the tutorial</string>
+		<key>done</key>
+		<string>Completed the tutorial</string>
+	</dict>
+</dict>
+</plist>

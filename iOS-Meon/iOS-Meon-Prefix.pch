@@ -1,0 +1,17 @@
+//
+// Prefix header for all source files of the 'iOS-Meon' target in the 'iOS-Meon' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+#define NS_BUILD_32_LIKE_64 1
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "Common.h"
+#endif

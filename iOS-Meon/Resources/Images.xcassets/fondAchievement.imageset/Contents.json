@@ -1,0 +1,88 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 1,
+          "height" : 1
+        },
+        "capInsets" : {
+          "bottom" : 24,
+          "top" : 24,
+          "right" : 24,
+          "left" : 24
+        }
+      },
+      "idiom" : "iphone",
+      "filename" : "fondAchievement.png",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 1,
+          "height" : 1
+        },
+        "capInsets" : {
+          "bottom" : 41,
+          "top" : 41,
+          "right" : 41,
+          "left" : 41
+        }
+      },
+      "idiom" : "iphone",
+      "filename" : "fondAchievement@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 1,
+          "height" : 1
+        },
+        "capInsets" : {
+          "bottom" : 34,
+          "top" : 32,
+          "right" : 34,
+          "left" : 34
+        }
+      },
+      "idiom" : "ipad",
+      "filename" : "fondAchievement~ipad.png",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "fill",
+          "width" : 1,
+          "height" : 1
+        },
+        "capInsets" : {
+          "bottom" : 59,
+          "top" : 60,
+          "right" : 59,
+          "left" : 61
+        }
+      },
+      "idiom" : "ipad",
+      "filename" : "fondAchievement@2x~ipad.png",
+      "scale" : "2x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

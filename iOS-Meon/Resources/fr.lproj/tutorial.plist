@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>version</key>
+	<string>1</string>
+	<key>items</key>
+	<array>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Salut!
+Bienvenue dans le Monde de Meon.
+Je vais t'apprendre à jouer.
+Tapote n'importe où sur l'écran.</string>
+				<key>highlights</key>
+				<array>
+					<string>Meon</string>
+				</array>
+			</dict>
+			<dict>
+				<key>text</key>
+				<string>Le but de ce jeu est de finir les 120 niveaux.
+Pour finir un niveau, tu dois libérer chaque Meon en l'éclairant avec un laser de la bonne couleur.</string>
+				<key>highlights</key>
+				<array>
+					<string>120 niveaux</string>
+					<string>Meon</string>
+				</array>
+			</dict>
+ 			<dict>
+				<key>text</key>
+				<string>Essayons le premier niveau.
+Tu peux déplacer les Meons verts. Tapote sur le Meon vert et déplace-le vers le bas.                </string>
+				<key>highlights</key>
+				<array>
+					<string>Meons verts</string>
+					<string>Meon vert</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Pour libérer les Meons, tu peux t'aider d'outils. Dans ce niveau, utilise le Diviseur pour diviser ton laser et libérer les deux Meons.
+Essaie d'envoyer ton laser sur le Diviseur</string>
+				<key>highlights</key>
+				<array>
+					<string>outils</string>
+					<string>Diviseur</string>
+					<string>Diviseur</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Génial !
+C'est facile, non ? Si tu veux admirer ton travail, tu peux activer une pause entre chaque niveau : va juste dans les Options du menu principal.
+Maintenant, essaie d'utiliser le Miroir pour changer la direction de ton laser...</string>
+				<key>highlights</key>
+				<array>
+					<string>pause</string>
+					<string>Options</string>
+					<string>Mirroir</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Pour libérer un Meon coloré, tu dois envoyer sur lui un laser de la même couleur.
+Tu peux utiliser un Prisme pour créer des lasers de couleur.
+Essaie d'envoyer un laser blanc sur le côté blanc de ce Prisme.</string>
+				<key>highlights</key>
+				<array>
+					<string>même couleur</string>
+					<string>Prisme</string>
+				</array>
+			</dict>
+		</array>
+        
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Les Gemmes colorées peuvent changer la couleur de ton laser.
+Est-ce-que tu peux éclairer le Meon rouge avec un laser rouge ?</string>
+				<key>highlights</key>
+				<array>
+					<string>Gemmes colorées</string>
+					<string>Meon rouge</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Pour résoudre un niveau, tu as droit à deux indices. Quand tu tapotes sur “?”, la position exacte d'un des outils t'est revélée.
+Essaie de tapoter sur “?”...</string>
+				<key>highlights</key>
+				<array>
+					<string>indices</string>
+					<string>“?”</string>
+					<string>position exacte</string>
+					<string>“?”</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>text</key>
+				<string>Ok, tu es un génie !
+Si tu est vraiment bloqué sur un niveau, n'oublie pas d'utiliser le solver.
+Bon, essayons de libérer tous les Meons, ils attendent ton aide !
+Bonne chance !!!</string>
+				<key>highlights</key>
+				<array>
+					<string>solver</string>
+					<string>Bonne chance !!!</string>
+				</array>
+			</dict>
+		</array>
+        
+        
+        
+	</array>
+</dict>
+</plist>

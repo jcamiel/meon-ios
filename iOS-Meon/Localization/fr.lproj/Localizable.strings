@@ -1,0 +1,92 @@
+/* 
+  Localizable.strings
+  Meon
+
+  Created by Jean-Christophe Amiel on 10/29/11.
+  Copyright (c) 2011 Manbolo. All rights reserved.
+*/
+ 
+"L_ShareByTweetBlocked" = "Bloqué au niveau %d - Meon de @ManboloGames. Trop addictif, à télécharger";
+"L_ShareByTweetCompleted" = "Je viens juste de passer le niveau %d à Meon de @ManboloGames. Trop addictif, à télécharger";
+
+"L_NoNetwork" = "No Network Connection. Please check your network settings and try again.";
+"L_AlertReset" = "Do you really want to reset your local highscores?";
+
+"L_RateMeonTitle" = "Tu aimes Meon?";
+"L_RateMeonMessage" = "Merci de noter Meon dans l'App Store !
+Ta progression sera sauvegardée et tu nous aideras à améliorer le jeu (et on sera très content 😊).";
+"L_RateMeonCancelButton" = "Non merci";
+"L_RateMeonOkButton" = "Noter !";
+
+"L_Cancel" = "Annuler";
+"L_OK" = "OK";
+
+"L_Solver" = "Des scientifiques ont découvert le moyen de libérer les Meons...
+Tu peux acheter leurs connaissances pour débloquer définitivement le niveau actuel et 4 autres niveaux au choix.
+Augmente ton score et achète 5 solutions pour %@";
+"L_Solver_Highlight_1" = "débloquer définitivement";
+"L_Solver_Highlight_2" = "5 solutions";
+
+"L_SolverTitle" = "Utiliser une solution ?";
+"L_SolverMessage" = "Veux-tu utiliser une de tes solutions pour résoudre ce niveau ?";
+"L_SolverDontUse" = "Non merci";
+"L_SolverUse" = "Oui !";
+"L_SolverLevelUnlocked" = "Le niveau est maintenant débloqué";
+"L_SolverWaitForConnection" = "ça arrive, ça arrive, connection en cours...";
+"L_SolverNoConnection" = "On n'arrive pas à contacter l'App Store !
+Il n'y a pas de connexion réseau de disponible.
+Merci de réessayer un peu plus tard...";
+
+"L_OptionsTwoHints" = "Deux indices par niveau";
+"L_OptionsPause" = "Pause entre chaque niveau";
+"L_OptionsSounds" = "Jouer les sons";
+"L_OptionsMusic" = "Jouer la musique";
+"L_OptionsParallax" = "Effets parallax";
+
+
+"L_GameOverYourScore" = "Ton score :";
+"L_GameOverHighScore" = "Meilleur score:";
+"L_GameOverYourName" = "Ton pseudo :";
+
+"L_Congratulations" = "Félicitations !
+
+Tu as achevé la quête de la lumière. Grâce à ta présence d'esprit et ton extrême intelligence, tu as résolu tous les 120 niveaux de Meon.
+
+Merci beaucoup d'avoir jouer avec nous. Envoies-nous un mail à contact@manbolo.com, nous voudrions te féliciter personnellement.
+
+A bientôt sur Manbolo !";
+
+"L_CongratulationsLite" = "Félicitations !
+
+Tu as achevé la version d'évaluation de Meon, la quête de la lumière. 
+
+Si tu veux jouer à pleins de nouveaux niveaux, tu peux acheter maintenant la version complète de Meon dans l'App Store. La version complète comporte 120 niveaux, des énigmes infernales et pleins de Meons !
+
+A bientôt sur Manbolo !";
+
+"L_TimeAttack" = "Dans le mode Time Attack, tu dois terminer tous les niveaux le plus rapidement possible.
+Choisis la distance, et c'est parti !";
+
+"L_TimeAttackQuit" = "Es-tu sûr de d'arrêter ta course ?";
+
+"L_Yes" = "Oui";
+
+"L_No" = "Non";
+
+
+"L_iCloudReceivedNewLevelTitle" = "iCloud";
+"L_iCloudReceivedNewLevelMessage" = "Veux-tu aller directement au dernier niveau sauvé dans iCloud ?";
+"L_iCloudReceivedNewLevelCancelButton" = "Non, reste-ici";
+"L_iCloudReceivedNewLevelOkButton" = "Oui !";
+
+"L_Cancel" = "Annuler";
+
+"L_ClassicGame" = "Jeu Classique";
+"L_Timeattack" = "Contre La Montre";
+"L_Highscores" = "Meilleurs Scores";
+"L_Options" = "Options";
+
+
+
+
+

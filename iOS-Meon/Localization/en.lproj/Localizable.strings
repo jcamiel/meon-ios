@@ -1,0 +1,87 @@
+/* 
+  Localizable.strings
+  Meon
+
+  Created by Jean-Christophe Amiel on 10/29/11.
+  Copyright (c) 2011 Manbolo. All rights reserved.
+*/
+
+"L_ShareByTweetBlocked" = "Stuck on level %d - Meon by @ManboloGames. It's too addictive, download it";
+"L_ShareByTweetCompleted" = "I've just beaten level %d - Meon by @ManboloGames. It's too addictive, download it";
+
+"L_NoNetwork" = "No Network Connection. Please check your network settings and try again.";
+"L_AlertReset" = "Do you really want to reset your local highscores?";
+
+"L_RateMeonTitle" = "Love Meon?";
+"L_RateMeonMessage" = "Please rate Meon in the App Store!
+Your progression will be saved and you will help us to improve the game (and we'll be very happy 😊)";
+"L_RateMeonCancelButton" = "No Thanks";
+"L_RateMeonOkButton" = "Rate It!";
+
+"L_Cancel" = "Cancel";
+"L_OK" = "OK";
+
+"L_Solver" = "Scientists have discovered the secret to free Meons...
+You can buy them this knowledge to definitively unlock this level and 4 other levels.
+Increase your skills and buy now 5 level solvers for %@";
+"L_Solver_Highlight_1" = "definitively unlock";
+"L_Solver_Highlight_2" = "5 level solvers";
+
+"L_SolverTitle" = "Use Solver?";
+"L_SolverMessage" = "Do you want to use one solver to beat this level?";
+"L_SolverDontUse" = "No Thanks";
+"L_SolverUse" = "Use it Now!";
+"L_SolverLevelUnlocked" = "This level is unlocked now";
+"L_SolverWaitForConnection" = "Please, wait for connection...";
+"L_SolverNoConnection" = "We are unable to contact App Store!
+No network connection available.
+Please retry later...";
+
+"L_OptionsTwoHints" = "Two hints per level";
+"L_OptionsPause" = "Enable pause between level";
+"L_OptionsSounds" = "Play Sounds";
+"L_OptionsMusic" = "Play Music";
+"L_OptionsParallax" = "Parallax Effects";
+
+
+"L_GameOverYourScore" = "Your score:";
+"L_GameOverHighScore" = "Your High score:";
+"L_GameOverYourName" = "Your name:";
+
+"L_Congratulations" = "Congratulations!
+
+You have completed the Light Quest. With the power of your mind, and with your extreme cleverness, you have solved all the 120 levels of Meon.
+
+Thank you very much for having play with us. Please send-us a mail to contact@manbolo.com, we would like to personally congratulate you.
+
+See you soon on Manbolo !";
+
+"L_CongratulationsLite" = "Congratulations!
+
+You have completed the lite version of Meon, the Light Quest.
+
+If you want more levels, please buy the full version of Meon in the App Store. Full version contains 120 levels, infernal puzzles and a lot of Meon!
+
+See you soon on Manbolo!";
+
+"L_TimeAttack" = "In Time Attack mode, you have to complete all the levels in the minimum time.
+Choose your distance, and let's start the race!";
+
+"L_TimeAttackQuit" = "Are you sure to leave your Timeattack race now?";
+
+"L_Yes" = "Yes";
+
+"L_No" = "No";
+
+"L_iCloudReceivedNewLevelTitle" = "iCloud";
+"L_iCloudReceivedNewLevelMessage" = "Do you want to go directly to the last level saved in iCloud ?";
+"L_iCloudReceivedNewLevelCancelButton" = "No, stay here";
+"L_iCloudReceivedNewLevelOkButton" = "Yes!";
+
+"L_Cancel" = "Cancel";
+
+"L_ClassicGame" = "Play Classic";
+"L_Timeattack" = "Time attack";
+"L_Highscores" = "Highscores";
+"L_Options" = "Options";
+
