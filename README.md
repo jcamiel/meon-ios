@@ -45,4 +45,4 @@ Meon iOS is released under Apache 2.0 license.
 
 ## Walkthrough
 
-[All Meon's 120 levels Walktrought](docs/walkthrough.md)
+[All Meon's 120 levels Walkthrough](docs/walkthrough.md)
